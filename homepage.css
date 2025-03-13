@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(216, 131, 4);
+}
+h1{
+    background-color: rgb(104, 62,0);
+    padding: 20px;
+    display: inline-block;
+    margin-left: 40%;
+    border-radius: 15px;
+    color: rgb(133, 172, 255);
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 40px #00f, 0 0 80px #00f; 
+    
+}
+
+
+.ButaoInicio{
+    background-color: rgb(104, 62,0);
+    padding: 20px;
+    display: inline-block;
+    margin-left: 40%;
+    border-radius: 15px;
+    color: rgb(133, 172, 255);
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 40px #00f, 0 0 80px #00f; 
+    width: 20%;
+}
+.ButaoMenu{
+    background-color: rgb(104, 62,0);
+    padding: 20px;
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 5px;
+    border-radius: 15px;
+    color: rgb(133, 172, 255);
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 40px #00f, 0 0 80px #00f; 
+    width: 20%;
+    
+}
+.butaoCredito{
+    background-color: rgb(104, 62,0);
+    padding: 20px;
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 5px;
+    border-radius: 15px;
+    color: rgb(133, 172, 255);
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 40px #00f, 0 0 80px #00f; 
+    width: 20%;
+}
+.butaoVoltar{
+    background-color: rgb(104, 62,0);
+    padding: 20px;
+    display: inline-block;
+    margin-left: 40%;
+    margin-top: 5px;
+    border-radius: 15px;
+    color: rgb(202, 227, 255);
+    text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 40px #00f, 0 0 80px #00f; 
+    width: 20%;
+}
